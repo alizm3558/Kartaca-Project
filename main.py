@@ -1,2 +1,0 @@
-print("ali")
-print("yeni")

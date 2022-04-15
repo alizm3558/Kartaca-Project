@@ -30,12 +30,12 @@ def register_record(users_datum):
 
             db.session.add(users_data)
             db.session.commit()
-            msg2 = {'status': True,
+            msg = {'status': True,
                     'message': "Kullanıcı Kaydedildi",
                     'users': users_datum}
 
-            return msg2
+            return msg
         except ValueError:
-            msg3 = {'status': False,
+            msg = {'status': False,
                     'error': '400'}
-            return msg3
+            return msg

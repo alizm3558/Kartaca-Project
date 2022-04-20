@@ -17,7 +17,7 @@ db = SQLAlchemy(app)
 
 #restful
 api.add_resource(register, '/register')
-
+api.add_resource(login, '/login')
 
 
 if __name__ == "__main__":

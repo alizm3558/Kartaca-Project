@@ -1,5 +1,10 @@
 # Kartaca-Project
 
+Şifreli dosya içerisinde bize verilen anahtar kodu:
+oIIIIIJqCcOZrg8yE0Jc6Ya_9G_NpVushNQc3C8BqLZYhK_-Hn2jczX5tg8bcUFq7feaRRQc13iC5xPKHAmvi_ScnoDQ4ZIuLkB4gQcyWLT7bHGTKGYUxA0M-i1dekpgz-uF69KtA-uN8KJKFF5nq1SVq0goKlPOmtWdzxrXKLiQNQBh6OoK7FWiCtQ733YYxLAhxxv2PTqs2OFCUGwmwTrx6gcZEyot-jCa1FzeNwuGffMqtkpnoMU=
+
+
+
 Üye Kaydı, üye girişi kontrolü, etkinlik kayıt,silme, güncelleme ve gösterme işlemlerini gerçekleştiren backend servisler geliştirildi.
 Endpoint'ler aşağıdaki gibi çalıştırılmaktadır;
 
@@ -32,3 +37,10 @@ Etkinlik silme:
 <br>
 <img width="830" alt="Ekran Resmi 2022-04-24 22 28 28" src="https://user-images.githubusercontent.com/24212618/164993178-2add3f0b-64f7-454b-acef-a7e75543fb17.png">
 <br>
+
+
+Python tarafından gerekenlerin yüklenmesi için aşağıdaki komutu çalıştırabilirsiniz.
+  pip install requirements.txt 
+  
+Eğer bilgisayarınızda pip paketi yüklü değilse, işletim sisteminize göre uyumlu olan pip paketini indirmelisiniz.
+  Bağlantı adresi: https://pypi.org/

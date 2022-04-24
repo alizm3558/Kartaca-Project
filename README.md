@@ -39,8 +39,8 @@ Etkinlik silme:
 <br>
 
 
-Python tarafından gerekenlerin yüklenmesi için aşağıdaki komutu çalıştırabilirsiniz.
+Python tarafından gerekenlerin yüklenmesi için aşağıdaki komutu çalıştırabilirsiniz.<br>
   pip install requirements.txt 
-  
-Eğer bilgisayarınızda pip paketi yüklü değilse, işletim sisteminize göre uyumlu olan pip paketini indirmelisiniz.
+  <br><br>
+Eğer bilgisayarınızda pip paketi yüklü değilse, işletim sisteminize göre uyumlu olan pip paketini indirmelisiniz.<br>
   Bağlantı adresi: https://pypi.org/

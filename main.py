@@ -4,7 +4,7 @@ import os
 from flask import Flask, render_template, make_response, jsonify, request, url_for
 from flask_restful import Resource, Api
 from flask_sqlalchemy import SQLAlchemy
-from app.users import *
+from app.service import *
 app = Flask(__name__)
 api = Api(app)
 app.secret_key="Kartaca"
@@ -18,6 +18,10 @@ db = SQLAlchemy(app)
 #restful
 api.add_resource(register, '/register')
 api.add_resource(login, '/login')
+api.add_resource(event_record, '/event-record')
+api.add_resource(get_event_record, '/get-event')
+api.add_resource(get_events,'/get-events')
+api.add_resource(event_delete,'/event-delete')
 
 
 if __name__ == "__main__":

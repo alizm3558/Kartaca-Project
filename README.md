@@ -1,6 +1,6 @@
 # Kartaca-Project
 
-Şifreli dosya içerisinde bize verilen anahtar kodu:<br>
+Şifreli dosya içerisindeki bana verilen anahtar kod:<br>
 oIIIIIJqCcOZrg8yE0Jc6Ya_9G_NpVushNQc3C8BqLZYhK_-Hn2jczX5tg8bcUFq7feaRRQc13iC5xPKHAmvi_ScnoDQ4ZIuLkB4gQcyWLT7bHGTKGYUxA0M-i1dekpgz-uF69KtA-uN8KJKFF5nq1SVq0goKlPOmtWdzxrXKLiQNQBh6OoK7FWiCtQ733YYxLAhxxv2PTqs2OFCUGwmwTrx6gcZEyot-jCa1FzeNwuGffMqtkpnoMU=
 
 

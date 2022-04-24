@@ -17,3 +17,8 @@ Etkinlik ekleme:
 <br>
 <img width="830" alt="Ekran Resmi 2022-04-24 22 23 22" src="https://user-images.githubusercontent.com/24212618/164993013-e533b295-b074-476a-83fd-56f7001f0680.png">
 <br>
+
+Talebe göre etkinlik bilgileri getirme:
+<br>
+<img width="830" alt="Ekran Resmi 2022-04-24 22 25 15" src="https://user-images.githubusercontent.com/24212618/164993080-96988c61-4a6c-46f0-b992-6b12f71f5d89.png">
+<br>

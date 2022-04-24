@@ -22,3 +22,9 @@ Talebe göre etkinlik bilgileri getirme:
 <br>
 <img width="830" alt="Ekran Resmi 2022-04-24 22 25 15" src="https://user-images.githubusercontent.com/24212618/164993080-96988c61-4a6c-46f0-b992-6b12f71f5d89.png">
 <br>
+
+Kullanıcıya ait ve kullanıcı tarafından silinmemiş etkinliklerin hepsini getirme:
+<br>
+<img width="830" alt="Ekran Resmi 2022-04-24 22 26 56" src="https://user-images.githubusercontent.com/24212618/164993143-f7784191-42f0-4bad-988b-8ab46ce1a2a4.png">
+<br>
+

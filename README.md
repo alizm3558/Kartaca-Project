@@ -28,3 +28,7 @@ Kullanıcıya ait ve kullanıcı tarafından silinmemiş etkinliklerin hepsini g
 <img width="830" alt="Ekran Resmi 2022-04-24 22 26 56" src="https://user-images.githubusercontent.com/24212618/164993143-f7784191-42f0-4bad-988b-8ab46ce1a2a4.png">
 <br>
 
+Etkinlik silme:
+<br>
+<img width="830" alt="Ekran Resmi 2022-04-24 22 28 28" src="https://user-images.githubusercontent.com/24212618/164993178-2add3f0b-64f7-454b-acef-a7e75543fb17.png">
+<br>

@@ -44,3 +44,7 @@ Python tarafından gerekenlerin yüklenmesi için aşağıdaki komutu çalışt�
   <br><br>
 Eğer bilgisayarınızda pip paketi yüklü değilse, işletim sisteminize göre uyumlu olan pip paketiniz gerekmektedir.<br>
   Bağlantı adresi: https://pypi.org/
+  
+  
+<br><br>
+Son olarak da Kartaca-Database-Mysql dosyası içerisindeki, Sql dosyalarını Mysql üzerinden içeri aktar yaparak veritabanını oluşturabilirsiniz.

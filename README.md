@@ -10,7 +10,6 @@ Backend istekleri aşağıdaki gibi yapılmaktadır;
 
 Üye giriş kontrolü:
 <br>
-
 <img width="830" alt="Ekran Resmi 2022-04-24 22 21 54" src="https://user-images.githubusercontent.com/24212618/164992963-d8d87bb1-349d-4a85-b5fe-ff0f34779b31.png">
 <br>
 

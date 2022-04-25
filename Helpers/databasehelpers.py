@@ -22,9 +22,6 @@ class kartaca_events(db.Model):
 
 
 
-"""update = catchpoint_first_records.query.filter_by(id=row.id).first()
-                            update.status = True
-                            db.session.commit()"""
 def event_delete(event_id):
     try:
         update = kartaca_events.query.filter_by(id=event_id).first()
